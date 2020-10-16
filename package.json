@@ -1,0 +1,9 @@
+{
+  "name": "ux_playground",
+  "version": "1.0.0",
+  "description": "place to play around with ux",
+  "main": "index.js",
+  "repository": "https://github.com/gadeli/ux_playground.git",
+  "author": "Lizzy Gade <lizzygade@gmail.com>",
+  "license": "MIT"
+}
